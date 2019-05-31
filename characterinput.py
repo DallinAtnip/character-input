@@ -7,6 +7,8 @@ age = int(input("how old are you?: "))
 
 agedifference = 100 - age
 
-print "you will be 100 in",agedifference,"years"
+print (("you will be 100 in",agedifference,"years") * int(input("pick a number: "))
 
-usernumber = int(input("pick a number: "))
+#usernumber = int(input("pick a number: "))
+
+#print(result * usernumber)
